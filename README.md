@@ -1,5 +1,5 @@
 # User-land-Virtualization
-Code for handling segmentation fault signals, and possibly others.
+Code for handling segmentation fault signals, and possibly other signals.
 
 
 End Goal:
